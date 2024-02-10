@@ -1,0 +1,7 @@
+name: DevAufgabe
+version: '${project.version}'
+main: de.lmcraft.devaufgabe.DevAufgabe
+api-version: 1.20
+authors: [ Lmcraft ]
+commands:
+  clearchat:
