@@ -11,7 +11,7 @@ Hallo, dies ist die Development-Aufgabe von Lmcraft.de
 -  [ ] Erfahrung mit p2 API
 -  [ ] Erfahrung mit Protocollib
 -  [ ] Erfahrung mit Webanfragen
--  [ ] Erfahrung mit com.sun.net.httpserver.HttpExchange oder mit Spark
+-  [ ] Erfahrung mit com.sun.net.httpserver oder mit Spark
 
 ---------------------------------
 
