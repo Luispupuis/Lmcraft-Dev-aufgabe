@@ -12,6 +12,7 @@ Hallo, dies ist die Development-Aufgabe von Lmcraft.de
 -  [ ] Erfahrung mit Protocollib
 -  [ ] Erfahrung mit Webanfragen
 -  [ ] Erfahrung mit com.sun.net.httpserver oder mit Spark
+-  [ ] Erfahrung mit JDA
 
 ---------------------------------
 
